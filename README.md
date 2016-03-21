@@ -1,0 +1,1 @@
+Solution simple java tasks for my skill
