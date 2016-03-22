@@ -13,9 +13,8 @@ public class RandomBulderString {
         System.out.println(array[0]);
 
         System.out.println(array[first] + " " +
-                array[two] +" "+ array[three]+" "
+                array[two] + " " + array[three] + " "
                 + array[four]);
-
 
     }
 
